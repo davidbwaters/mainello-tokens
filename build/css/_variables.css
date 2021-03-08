@@ -1,0 +1,39 @@
+/**
+ * Do not edit directly
+ * Generated on Sun, 07 Mar 2021 06:20:23 GMT
+ */
+
+:root {
+  --green-sheen: rgba(114, 180, 174, 1);
+  --eerie-black: rgba(20, 20, 20, 1);
+  --timberwolf: rgba(218, 212, 208, 1);
+  --platinum: rgba(231, 231, 231, 1);
+  --white: rgba(255, 255, 255, 1);
+  --opaque-light: rgba(231, 231, 231, 0.5);
+  --opaque-dark: rgba(20, 20, 20, 0.5);
+  --gray: rgba(204, 204, 204, 1);
+  --green-sheen-subtle-radial-0: rgba(255, 255, 255, 1);
+  --green-sheen-subtle-radial-1-stops-0-color: rgba(114, 180, 174, 0.6);
+  --green-sheen-subtle-radial-1-stops-1-color: rgba(114, 180, 174, 1);
+  --platinum-subtle-radial-stops-0-color: rgba(231, 231, 231, 1);
+  --platinum-subtle-radial-stops-1-color: rgba(231, 231, 231, 1);
+  --timberwolf-subtle-radial-stops-0-color: rgba(218, 212, 208, 1);
+  --timberwolf-subtle-radial-stops-1-color: rgba(218, 212, 208, 1);
+  --opaque-dark-subtle: rgba(20, 20, 20, 0.25);
+  --dark-gray: rgba(170, 170, 170, 1);
+  --timberwolf-tints-and-shades-shade-3: rgba(154, 148, 146, 1);
+  --timberwolf-tints-and-shades-shade-2: rgba(176, 170, 167, 1);
+  --timberwolf-tints-and-shades-shade-1: rgba(198, 191, 188, 1);
+  --timberwolf-tints-and-shades-tint-1: rgba(224, 216, 214, 1);
+  --timberwolf-tints-and-shades-tint-2: rgba(227, 221, 218, 1);
+  --timberwolf-tints-and-shades-tint-3: rgba(231, 225, 223, 1);
+  --green-sheen-tints-and-shades-shade-3: rgba(80, 126, 122, 1);
+  --green-sheen-tints-and-shades-shade-2: rgba(91, 144, 139, 1);
+  --green-sheen-tints-and-shades-shade-1: rgba(103, 162, 157, 1);
+  --green-sheen-tints-and-shades-tint-1: rgba(128, 188, 182, 1);
+  --green-sheen-tints-and-shades-tint-2: rgba(142, 195, 190, 1);
+  --green-sheen-tints-and-shades-tint-3: rgba(156, 203, 198, 1);
+  --shadow-subtle-1-color: rgba(231, 231, 231, 1);
+  --shadow-subtle-2-color: rgba(20, 20, 20, 0.1);
+  --shadow-subtle-inner-color: rgba(0, 0, 0, 0.02);
+}
