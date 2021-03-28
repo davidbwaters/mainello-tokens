@@ -1,8 +1,47 @@
 /**
  * Do not edit directly
- * Generated on Thu, 11 Mar 2021 21:58:24 GMT
+ * Generated on Sun, 28 Mar 2021 22:42:39 GMT
  */
 
 :root {
-
+  --ffffff-3-paints-0: rgba(255, 255, 255, 1);
+  --ffffff-3-paints-1-stops-0-color: rgba(255, 255, 255, 1);
+  --ffffff-3-paints-1-stops-1-color: rgba(255, 255, 255, 1);
+  --ffffff-3-paints-1-stops-2-color: rgba(255, 255, 255, 1);
+  --ffffff-3-paints-1-stops-3-color: rgba(255, 255, 255, 1);
+  --primary-green-sheen: rgba(114, 180, 174, 1);
+  --primary-green-sheen-shade-1: rgba(95, 150, 145, 1);
+  --primary-green-sheen-shade-2: rgba(76, 120, 116, 1);
+  --primary-green-sheen-tint-1: rgba(137, 192, 187, 1);
+  --primary-green-sheen-tint-2: rgba(161, 205, 201, 1);
+  --primary-timberwolf: rgba(218, 212, 208, 1);
+  --primary-timberwolf-shade-1: rgba(182, 177, 173, 1);
+  --primary-timberwolf-shade-2: rgba(145, 141, 139, 1);
+  --primary-timberwolf-tint-1: rgba(224, 219, 216, 1);
+  --primary-timberwolf-tint-2: rgba(230, 226, 224, 1);
+  --primary-eerie-black: rgba(20, 20, 20, 1);
+  --primary-platinum: rgba(231, 231, 231, 1);
+  --neutral-transparent: rgba(255, 255, 255, 1);
+  --neutral-white: rgba(255, 255, 255, 1);
+  --neutral-gray: rgba(204, 204, 204, 1);
+  --neutral-dark-gray: rgba(170, 170, 170, 1);
+  --neutral-opaque-light: rgba(231, 231, 231, 0.5);
+  --neutral-opaque-dark: rgba(20, 20, 20, 0.5);
+  --neutral-opaque-dark-subtle: rgba(20, 20, 20, 0.25);
+  --gradient-green-sheen-subtle-linear-0: rgba(255, 255, 255, 1);
+  --gradient-green-sheen-subtle-linear-1-stops-0-color: rgba(114, 180, 174, 0.6);
+  --gradient-green-sheen-subtle-linear-1-stops-1-color: rgba(114, 180, 174, 1);
+  --gradient-platinum-subtle-linear-stops-0-color: rgba(231, 231, 231, 1);
+  --gradient-platinum-subtle-linear-stops-1-color: rgba(231, 231, 231, 1);
+  --gradient-green-sheen-subtle-radial-stops-0-color: rgba(114, 180, 174, 0.6);
+  --gradient-green-sheen-subtle-radial-stops-1-color: rgba(114, 180, 174, 1);
+  --gradient-platinum-subtle-radial-stops-0-color: rgba(231, 231, 231, 1);
+  --gradient-platinum-subtle-radial-stops-1-color: rgba(231, 231, 231, 1);
+  --gradient-timberwolf-subtle-radial-stops-0-color: rgba(218, 212, 208, 1);
+  --gradient-timberwolf-subtle-radial-stops-1-color: rgba(218, 212, 208, 1);
+  --patterns-grain-light-rainbow: rgba(255, 255, 255, 1);
+  --subtle-1-color: rgba(20, 20, 20, 0.16);
+  --subtle-2-0-color: rgba(0, 0, 0, 0.08);
+  --subtle-2-1-color: rgba(0, 0, 0, 0.04);
+  --inner-subtle-1-color: rgba(0, 0, 0, 0.03);
 }
